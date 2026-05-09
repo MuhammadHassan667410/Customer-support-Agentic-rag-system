@@ -1,0 +1,105 @@
+NOVATECH SOLUTIONS — FREQUENTLY ASKED QUESTIONS
+=================================================
+
+ACCOUNT AND GETTING STARTED
+-----------------------------
+
+Q1: How do I create a NovaTech account?
+A: Go to www.novatechsolutions.com and click "Sign Up Free" in the top right corner. Enter your work email address and create a password (minimum 10 characters with at least one uppercase letter, one number, and one special character). You will receive a verification email within 2 minutes — click the link inside to verify your address. After verification, you will be prompted to create your first workspace by entering your company or team name. Your account and first workspace are ready immediately. The whole process takes under 3 minutes.
+
+Q2: Can I sign up with Google or Microsoft instead of creating a password?
+A: Yes. On the signup page, you can choose "Continue with Google" or "Continue with Microsoft" to authenticate using your existing Google Workspace or Microsoft 365 account. This is the recommended approach for most users because it eliminates the need to remember a separate password and adds an extra layer of security through your identity provider's own authentication.
+
+Q3: I did not receive a verification email. What should I do?
+A: First, check your spam or junk mail folder — our emails occasionally get filtered. If it is not there, wait 5 minutes and then click "Resend verification email" on the login page. If you still do not receive it after 10 minutes, the email address you entered may have a typo — try signing up again with the corrected address. If the problem persists, contact support@novatechsolutions.com.
+
+Q4: Can I use NovaTech for personal projects, not just business teams?
+A: Absolutely. Many of our Starter plan users are individual freelancers, students, or solo entrepreneurs who use NovaTech to manage their own work. The Starter plan is free and supports up to 5 users, making it well suited for personal use. There is no requirement to be a business to use NovaTech.
+
+Q5: How many workspaces can I create?
+A: You can be a member of multiple workspaces — for example, one for your company and one for a side project or freelance client. On the Starter plan, each workspace is limited to 5 users and 10 projects independently. On the Professional plan, there is no limit on the number of workspaces you can create or join, and each workspace supports up to 200 users and unlimited projects.
+
+---
+
+PASSWORDS AND SECURITY
+------------------------
+
+Q6: How do I reset my password?
+A: On the login page, click "Forgot your password?" below the password field. Enter the email address associated with your NovaTech account and click "Send Reset Link." You will receive an email within 2 minutes with a link to create a new password. The reset link expires after 1 hour for security reasons. If it expires, simply request another one. If you signed up with Google or Microsoft (SSO), you do not have a NovaTech password — log in through your identity provider instead.
+
+Q7: How do I enable two-factor authentication (2FA)?
+A: Go to your Account Settings by clicking your profile picture in the top right corner, then selecting "Security." Under Two-Factor Authentication, click "Enable 2FA." You can choose between an authenticator app (recommended — works with Google Authenticator, Authy, or any TOTP-compatible app) or SMS verification. For the authenticator app method, scan the QR code shown on screen, enter the 6-digit code from the app to confirm it is working, and save your backup codes in a safe place. 2FA will be required at every login after this.
+
+Q8: What happens if I lose access to my 2FA device?
+A: When you set up 2FA, NovaTech gives you 8 one-time backup codes. Store these somewhere safe — they are your emergency access if you lose your phone. Each backup code can be used once. If you have lost both your 2FA device and your backup codes, contact support@novatechsolutions.com from your registered email address. Our support team will verify your identity through an additional verification process and disable 2FA on your account.
+
+Q9: Is my data encrypted?
+A: Yes. All data stored in NovaTech is encrypted at rest using AES-256 encryption. All data transmitted between your browser or app and our servers uses TLS 1.3 encryption. We store your data on AWS infrastructure with physical security controls. For more details, see our Security page at www.novatechsolutions.com/security.
+
+---
+
+BILLING AND SUBSCRIPTIONS
+---------------------------
+
+Q10: How do I upgrade from the Starter plan to Professional?
+A: Log in as a Workspace Owner or Admin. Go to Workspace Settings (gear icon in the left sidebar) and click "Billing & Plans." Click "Upgrade to Professional." Choose monthly or annual billing. Enter your credit card details. The upgrade takes effect immediately — all Professional features are unlocked the moment payment is processed. Your existing data, tasks, and projects are preserved.
+
+Q11: What is the difference between monthly and annual billing?
+A: Monthly billing charges your card each month at $29 per user. Annual billing charges your card once per year at $23 per user per month (billed as a single annual payment). Annual billing saves 21% compared to monthly. For example, a team of 10 users saves $720 per year with annual billing ($2,760/year vs. $3,480/year). Both options include exactly the same features.
+
+Q12: Can I cancel my subscription at any time?
+A: Yes. You can cancel at any time from Workspace Settings > Billing & Plans > "Cancel Subscription." If you are on monthly billing, your Professional access continues until the end of the current billing period, after which your workspace reverts to Starter plan limits. If you are on annual billing, your Professional access continues until the end of your paid annual period. We do not offer prorated refunds for annual subscriptions cancelled mid-period, but we do offer a full refund if you cancel within the first 30 days — see our Refund Policy for details.
+
+Q13: What happens to my data if I downgrade to the Starter plan?
+A: Your data is never deleted when downgrading. All your tasks, projects, files, and history remain intact. However, you will immediately lose access to Professional-only features. If your workspace has more than 5 users, the additional users will become inactive (they can no longer log in) until you re-upgrade or remove users to bring the total to 5 or below. If you have more than 10 active projects, the excess projects will be automatically archived (not deleted) and you will need to archive some manually to stay within the 10-project limit.
+
+Q14: How do I update my billing information or credit card?
+A: Go to Workspace Settings > Billing & Plans > "Payment Method." Click "Update Card" and enter your new card details. The new card will be used for all future charges. Your old card is removed immediately. You can also download past invoices from this page.
+
+Q15: Do you charge sales tax or VAT?
+A: For customers in the United States, NovaTech collects sales tax where required by state law. For customers in the European Union and United Kingdom, we collect VAT at the applicable rate. Your invoices will show the tax amount separately. If your organization is VAT-exempt or has a VAT ID, enter it in the Billing settings and tax will not be charged.
+
+---
+
+TEAM AND USER MANAGEMENT
+--------------------------
+
+Q16: How do I invite team members to my workspace?
+A: Go to Workspace Settings > Members > "Invite Members." Enter the email addresses of the people you want to invite (you can enter multiple addresses separated by commas). Select the role you want to assign them (Admin, Member, or Guest). Click "Send Invites." Each person will receive an invitation email with a link to join. Invitation links expire after 7 days — you can resend them from the Members page if needed.
+
+Q17: What is the difference between the Admin, Member, and Guest roles?
+A: Owner is the creator of the workspace and has full access to everything including billing. Admin has full access to all projects, settings, and can manage team members, but cannot access billing. Member can view and work in projects they are explicitly invited to, can create tasks and post comments, but cannot access workspace settings or invite other people. Guest has read-only access to specific projects they are invited to — useful for external clients or contractors who need visibility without edit access. On Professional and Enterprise plans, guests do not count toward your billable seat count.
+
+Q18: How do I remove a team member from my workspace?
+A: Go to Workspace Settings > Members. Find the person you want to remove and click the three-dot menu next to their name, then select "Remove from Workspace." They will immediately lose access to the workspace and all projects within it. Any tasks they were assigned remain assigned to them in the system (their name stays on the task) so history is preserved — you can reassign those tasks afterward if needed.
+
+---
+
+DATA, EXPORT, AND COMPLIANCE
+------------------------------
+
+Q19: Can I export all my data from NovaTech?
+A: Yes. You can export your workspace data at any time from Workspace Settings > Data & Privacy > "Export Data." You can choose to export all data or select specific projects. Data is exported as a ZIP file containing JSON files for tasks, projects, members, and comments, plus a CSV file for time tracking data. File attachments can also be included in the export. The export is processed in the background and you will receive an email with a download link when it is ready. Large workspaces may take up to 2 hours to process.
+
+Q20: Is NovaTech GDPR compliant?
+A: Yes. NovaTech Solutions is fully GDPR compliant. We act as a data processor for your team's personal data, and you as the workspace owner are the data controller. We have a Data Processing Agreement (DPA) available on request — email legal@novatechsolutions.com. Key GDPR measures we have in place include: lawful basis documentation, data minimization practices, the ability to respond to data subject access requests (your users can request their data from you and you can export it), the right to erasure (we can fully delete a user's personal data within 30 days of a written request), and a 72-hour breach notification policy. Professional and Enterprise customers can choose EU data residency (AWS eu-west-1, Dublin) to ensure personal data never leaves the EU.
+
+Q21: How long do you retain data after account deletion?
+A: When you delete a workspace or close your account, we retain your data in encrypted backups for 30 days in case you change your mind and want to recover it. After 30 days, all data is permanently and irreversibly deleted from our systems including backups. If you need immediate deletion (e.g., for GDPR compliance reasons), contact privacy@novatechsolutions.com and we will process an emergency deletion within 5 business days.
+
+---
+
+TECHNICAL AND API
+------------------
+
+Q22: What are the API rate limits?
+A: On the Professional plan, the API limit is 1,000 requests per minute per workspace. On the Enterprise plan, the limit is 10,000 requests per minute per workspace. If you exceed the rate limit, the API will return a 429 Too Many Requests HTTP response with a Retry-After header telling you how many seconds to wait before retrying. The Starter plan does not include API access.
+
+Q23: Does NovaTech support Single Sign-On (SSO)?
+A: SSO via SAML 2.0 is available on the Enterprise plan. It works with any SAML 2.0-compliant identity provider including Okta, Azure Active Directory (Entra ID), Google Workspace, OneLogin, Ping Identity, and others. To configure SSO, go to Workspace Settings > Security > "Configure SSO" and follow the setup wizard, which will guide you through entering your Identity Provider metadata URL and testing the connection. Contact support for help if your identity provider is not on the default list.
+
+Q24: What is your system uptime and where can I check status?
+A: NovaTech targets 99.9% uptime (measured monthly). Our current uptime status, any ongoing incidents, and historical uptime data are available at status.novatechsolutions.com. You can subscribe to status updates by email or SMS on that page. Planned maintenance windows are announced at least 48 hours in advance.
+
+Q25: How do I contact support?
+A: There are several ways to reach us depending on your plan. All plans can email support@novatechsolutions.com. Starter plan users can expect a response within 3 business days. Professional plan users can expect a response within 4 business hours during business hours (Monday-Friday, 8 AM–8 PM EST) and also have access to live chat through the in-app chat widget (the blue circle icon in the bottom right corner of the platform). Enterprise plan users have a dedicated Customer Success Manager as their primary contact and access to a 24/7 support phone line. In-app help is available to all users — click the "?" icon anywhere in the platform to search our help documentation or start a chat.

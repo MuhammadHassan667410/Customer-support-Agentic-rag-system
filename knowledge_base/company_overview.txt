@@ -1,0 +1,105 @@
+NOVATECH SOLUTIONS — COMPANY OVERVIEW
+======================================
+
+ABOUT US
+--------
+NovaTech Solutions was founded in 2018 by Aisha Malik and Daniel Okonkwo, two software engineers who spent years watching their colleagues drown in scattered spreadsheets, overflowing email threads, and disconnected tools. Their frustration with the chaos of modern team collaboration led them to build something they wished had existed — a single, intelligent workspace where teams could plan work, communicate, track progress, and deliver results without ever switching tabs.
+
+What started as a two-person project in a small co-working space in Austin, Texas, has grown into a team of 140 full-time employees across offices in Austin, London, and Karachi. NovaTech Solutions today serves over 8,500 companies across 60 countries, from independent freelancers to enterprise teams with thousands of users.
+
+OUR MISSION
+-----------
+Our mission is to eliminate the friction between ideas and execution. We believe great teams deserve tools that get out of their way — tools that are fast, intelligent, and human. We build NovaTech to be the kind of software that feels like a thoughtful colleague, not a bureaucratic system.
+
+WHAT WE BUILD
+-------------
+NovaTech Solutions is a B2B SaaS project management and team collaboration platform. At its core, it helps teams of all sizes:
+
+- Plan and organize work across projects, sprints, and departments
+- Communicate in real time without leaving the workspace
+- Track progress with live dashboards and automated reports
+- Manage files, documents, and assets in one place
+- Integrate with the tools they already use (Slack, GitHub, Jira, Google Workspace, and more)
+
+Our platform is used by engineering teams, marketing departments, operations groups, agency creative teams, and remote-first companies. We serve industries including technology, media, healthcare, e-commerce, education, and professional services.
+
+OUR STORY
+---------
+In 2017, Aisha was a product manager at a mid-sized software company, spending roughly four hours every week just consolidating status updates from six different tools. Daniel was a backend engineer at the same company, frustrated that no tool could track both code releases and the business work surrounding them in one place.
+
+They left their jobs in early 2018, raised $1.2 million in seed funding from angel investors in Austin, and spent eight months building the first version of NovaTech in Aisha's apartment. The product launched publicly in October 2018 with 200 beta users. Within six months, they had 1,000 paying customers and closed a $5 million Series A round led by Horizon Ventures.
+
+By 2021, NovaTech had grown to 50 employees and 3,000 customers. The company raised a $22 million Series B in 2022, which funded the expansion to London and Karachi and the hiring of the engineering, sales, and support teams that power the platform today.
+
+In 2024, NovaTech was recognized as one of the top 50 fastest-growing B2B SaaS companies in North America by SaaS Insider Magazine and won the Collaboration Software of the Year award at the TechForward Summit in San Francisco.
+
+OUR TEAM
+--------
+NovaTech employs 140 full-time staff across three offices:
+
+- Austin, Texas (HQ): 90 employees — Engineering, Product, Design, Finance, Legal
+- London, UK: 28 employees — Sales, Customer Success, EMEA Marketing
+- Karachi, Pakistan: 22 employees — Engineering, Support, Quality Assurance
+
+Our leadership team includes:
+- Aisha Malik, CEO and Co-Founder
+- Daniel Okonkwo, CTO and Co-Founder
+- Sofia Reyes, Chief Product Officer
+- Marcus Lee, VP of Engineering
+- Priya Nair, VP of Customer Success
+- James Hartley, VP of Sales (EMEA)
+
+CORE VALUES
+-----------
+Everything we build and every decision we make is guided by five core values:
+
+1. Clarity over complexity — We make things simple. If a feature needs a tutorial to understand, it is not finished.
+
+2. Speed as respect — We value our customers' time above all. Every second we save them is a second they can spend on real work.
+
+3. Transparency by default — We communicate openly with our customers, our partners, and each other. No hidden pricing. No buried policies. No corporate speak.
+
+4. Build for humans — Our software is for real people with real deadlines and real stress. We design with empathy and test with real users.
+
+5. Long-term thinking — We do not optimize for short-term metrics at the expense of customer trust. We build relationships, not just retention rates.
+
+OFFICES AND LOCATIONS
+---------------------
+Headquarters:
+NovaTech Solutions, Inc.
+1204 Congress Avenue, Suite 500
+Austin, TX 78701, United States
+Phone: +1 (512) 400-7890
+
+EMEA Office:
+NovaTech Solutions Ltd.
+12 Finsbury Square, 3rd Floor
+London, EC2A 1AN, United Kingdom
+Phone: +44 20 3948 5500
+
+Engineering & Support Hub:
+NovaTech Solutions (Pvt.) Ltd.
+Plot 44, Block 7, PECHS
+Karachi, 75400, Pakistan
+
+CONTACT AND SUPPORT
+-------------------
+General inquiries: hello@novatechsolutions.com
+Customer support: support@novatechsolutions.com
+Sales inquiries: sales@novatechsolutions.com
+Press and media: press@novatechsolutions.com
+Careers: careers@novatechsolutions.com
+Website: www.novatechsolutions.com
+
+Support hours:
+- Standard (all plans): Monday–Friday, 9 AM–6 PM EST
+- Priority (Professional plan): Monday–Friday, 8 AM–8 PM EST
+- Enterprise: 24/7 dedicated support line
+
+LEGAL AND COMPLIANCE
+--------------------
+NovaTech Solutions is incorporated in Delaware, USA, and registered to do business in Texas, the United Kingdom, and Pakistan.
+
+We are fully GDPR compliant for our European customers and maintain a Data Processing Agreement (DPA) available on request. We are SOC 2 Type II certified as of January 2024. We are ISO 27001 compliant and undergo annual third-party security audits.
+
+Customer data is hosted on AWS infrastructure in the US-East-1 (Virginia) region by default, with EU data residency available on Professional and Enterprise plans. Data is encrypted at rest using AES-256 and in transit using TLS 1.3.

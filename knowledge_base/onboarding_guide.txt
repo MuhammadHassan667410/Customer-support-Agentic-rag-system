@@ -1,0 +1,260 @@
+NOVATECH SOLUTIONS — ONBOARDING GUIDE
+=======================================
+
+Welcome to NovaTech Solutions. This guide walks you through everything you need to do in your first week to get your team up and running efficiently. Follow these steps in order and you will have a fully configured workspace with your team collaborating inside NovaTech within a few days.
+
+Estimated total setup time: 2 to 4 hours depending on team size and the number of integrations you connect.
+
+---
+
+STEP 1: VERIFY YOUR ACCOUNT AND SECURE IT
+-------------------------------------------
+
+Before you do anything else, make sure your account is verified and secured.
+
+1a. Verify your email address
+If you signed up with an email and password (rather than Google or Microsoft), check your inbox for the verification email from noreply@novatechsolutions.com. Click "Verify Email Address" in that email. If you do not see it within 5 minutes, check your spam folder or click "Resend verification" on the login screen.
+
+1b. Enable two-factor authentication (2FA)
+This is strongly recommended for every user, especially Workspace Owners and Admins. To enable 2FA:
+- Click your profile picture in the top right corner
+- Select "Account Settings"
+- Click the "Security" tab
+- Click "Enable Two-Factor Authentication"
+- Download an authenticator app if you do not already have one (Google Authenticator and Authy are both free and reliable)
+- Scan the QR code shown in NovaTech with your authenticator app
+- Enter the 6-digit code from the app to confirm it is working
+- Save your 8 backup codes somewhere secure (a password manager, a printed sheet in a drawer — somewhere you will not lose them)
+
+1c. Complete your profile
+Click your profile picture > "Account Settings" > "Profile." Add your full name, job title, and a profile photo. This matters more than it sounds — when you @mention teammates or assign tasks, everyone sees these details and it makes the workspace feel human rather than anonymous.
+
+---
+
+STEP 2: SET UP YOUR WORKSPACE
+-------------------------------
+
+Your workspace is the top-level container for everything your team does in NovaTech.
+
+2a. Name your workspace
+Go to Workspace Settings (gear icon in the left sidebar) > "General." Set the workspace name to your company or team name. Upload your company logo — it appears in the left sidebar and on email notifications sent to your team. Choose your timezone — this affects how deadlines and reminders are displayed.
+
+2b. Configure workspace-level settings
+While you are in Workspace Settings, review these options:
+- Default task view: Choose whether new projects open in List, Board, or Calendar view by default. Most teams prefer Board view.
+- Working hours and days: Set your team's standard working week. This affects how overdue tasks and workload reports are calculated.
+- Notification preferences: Set sensible defaults for the whole workspace. Individual users can override these in their personal settings.
+
+2c. Set your billing plan
+If you are on the Starter plan and plan to have more than 5 users or need Professional features, upgrade now before inviting your team. Go to Workspace Settings > "Billing & Plans" > "Upgrade to Professional." You can start with the 14-day free trial if you are not ready to commit — no credit card is required for the trial.
+
+---
+
+STEP 3: INVITE YOUR TEAM MEMBERS
+----------------------------------
+
+3a. Send invitations
+Go to Workspace Settings > "Members" > "Invite Members." Enter the email addresses of your teammates. You can paste multiple addresses separated by commas to invite everyone at once. Select the appropriate role for each person:
+- Admin: Team leads, project managers, or department heads who need to manage projects and settings
+- Member: Standard team members who work on tasks
+- Guest: External clients, contractors, or stakeholders who need read-only visibility
+
+Click "Send Invites." Each person receives an email invitation with a link to join the workspace. Invitation links expire after 7 days — you can resend from the Members page.
+
+3b. What your teammates need to do
+When a teammate receives the invitation email, they click "Accept Invitation," create their account (or log in if they already have a NovaTech account), and they are immediately inside your workspace. Share this onboarding guide with them so they can set up their own profiles and 2FA.
+
+3c. Manage pending invitations
+Back in Workspace Settings > "Members," you can see who has accepted and who has a pending invitation. If someone has not accepted after a few days, you can resend the invitation or copy the invite link and send it manually via your team chat tool.
+
+---
+
+STEP 4: CREATE YOUR FIRST PROJECTS
+------------------------------------
+
+Projects are the main organizational unit in NovaTech. Each project represents a workstream, a product, a client account, a department's work — whatever makes sense for your team's structure.
+
+4a. Create a project
+Click "New Project" in the left sidebar. Give the project a clear name (e.g., "Q3 Marketing Campaign," "Website Redesign," "Client: Acme Corp"). Add a description explaining the project's purpose — this helps teammates understand context when they are added later. Choose the project's default view (Board is recommended for most teams). Assign a project color and icon to make it easy to identify at a glance.
+
+4b. Add project members
+Projects are private by default — only the Workspace Owner, Admins, and explicitly added members can see them. Inside the project, click "Members" in the top toolbar, then "Add Members" and select the teammates who should have access. You can also add Guest users here if you want a client or contractor to see specific project progress.
+
+4c. Create sections
+Sections are the columns in Board view or the groupings in List view. They represent the stages of your workflow. Common section structures:
+- Simple: To Do, In Progress, Done
+- Development: Backlog, In Sprint, In Review, QA, Done
+- Creative: Briefing, Design, Revision, Approved, Published
+- Client work: Scoping, In Progress, Client Review, Revision, Delivered
+
+Click "Add Section" inside the project to create your columns.
+
+4d. Add your first tasks
+Click "Add Task" inside any section. At minimum, give the task a title and assign it to a team member. For tasks with deadlines, set the due date immediately — this populates the Calendar view and triggers reminder notifications. Add a description if the task requires any explanation or context that the assignee will need.
+
+Tip: Do not try to add every task perfectly on day one. Start with the next two weeks of real work and build the habit of creating tasks before doing work, not after.
+
+---
+
+STEP 5: CONNECT YOUR INTEGRATIONS
+------------------------------------
+
+Integrations make NovaTech feel like a natural extension of your existing tools rather than a separate system to check.
+
+5a. Slack integration (most popular)
+If your team uses Slack, connect it first. Go to Workspace Settings > "Integrations" > "Slack" > "Connect." You will be redirected to authorize NovaTech in your Slack workspace. Once connected, configure:
+- Which Slack channel receives NovaTech notifications (task assignments, due date reminders, project updates)
+- Whether to use the /novatech slash command in Slack to create tasks without leaving Slack
+- Per-project Slack channel routing (route Project A notifications to #eng-team, Project B to #marketing)
+
+5b. Google Calendar integration
+Go to Workspace Settings > "Integrations" > "Google Calendar" > "Connect." Sign in with your Google account. Once connected, any NovaTech task with a due date will automatically appear as an event on your Google Calendar. Calendar events are one-way (NovaTech → Google) and update automatically if you change the due date in NovaTech.
+
+5c. GitHub integration (for development teams)
+Go to Workspace Settings > "Integrations" > "GitHub" > "Connect." Authorize NovaTech as a GitHub app in your organization. Then, inside each project, go to "Project Settings" > "GitHub" and select the repositories to link. Once connected:
+- Type a NovaTech task ID in any GitHub commit message (e.g., "Fix login bug [NT-142]") to link the commit to that task
+- Create a pull request linked to a NovaTech task — the task shows the PR status live
+- When a linked PR is merged to main, the NovaTech task automatically moves to your "Done" section
+
+5d. Other integrations
+All 40+ integrations are found in Workspace Settings > "Integrations." Browse by category or search by name. Each integration has a setup guide that opens when you click "Connect."
+
+---
+
+STEP 6: CONFIGURE NOTIFICATIONS
+---------------------------------
+
+NovaTech sends notifications via email and push (mobile app). Out of the box, the defaults are reasonable, but most people want to customize them after a day or two to reduce noise.
+
+6a. Personal notification settings
+Click your profile picture > "Account Settings" > "Notifications." You can control notifications for:
+- Tasks assigned to you
+- Tasks where you are mentioned (@mentions)
+- Due date reminders (how many hours/days in advance)
+- Comments on tasks you are subscribed to
+- Project status updates
+- Team announcements
+
+6b. Email vs. push vs. in-app
+For each notification type, you can choose email only, push only (requires the mobile app), both, or neither. A common setup: enable push notifications for @mentions and task assignments (immediate), and email digests for project summaries (once daily).
+
+6c. Do Not Disturb hours
+Under notification settings, set your Do Not Disturb hours. During these hours, no push notifications will be sent to your phone, regardless of activity. This is important for remote teams spanning multiple time zones.
+
+---
+
+STEP 7: EXPLORE THE MOBILE APP
+--------------------------------
+
+Download the NovaTech mobile app to stay connected on the go.
+
+- iOS: Search "NovaTech Solutions" in the App Store, or go to www.novatechsolutions.com/ios
+- Android: Search "NovaTech Solutions" in the Google Play Store, or go to www.novatechsolutions.com/android
+
+Log in with the same credentials as your web account. All your workspaces, projects, and tasks are immediately available. The mobile app works offline — any changes you make without an internet connection are synced automatically when you reconnect.
+
+Key mobile features to know:
+- Tap the + button to create a task from anywhere in the app
+- Swipe left on a task in List view to quickly mark it complete, reassign it, or change its due date
+- Use the camera to photograph a document, whiteboard, or sticky note and attach it directly to a task
+- Enable push notifications during the app setup — these are separate from email notifications and give you real-time alerts
+
+---
+
+STEP 8: RUN YOUR FIRST TEAM STANDUP IN NOVATECH
+-------------------------------------------------
+
+One of the fastest ways to get your team using NovaTech daily is to run your standups inside it.
+
+How to do this:
+
+1. In the left sidebar, click on the Team Chat icon (speech bubble icon)
+2. Create a channel called #daily-standup
+3. Each morning, every team member posts their update directly in this channel using this format:
+   - Yesterday: [What I completed]
+   - Today: [What I am working on]
+   - Blockers: [Anything blocking me, or "None"]
+4. Anyone posting about a task should link the task by typing @ and selecting it from the dropdown — this creates a clickable link to the actual task so there is no ambiguity about what is being discussed
+
+This approach replaces meeting-based standups for async teams and creates a searchable record of daily progress.
+
+---
+
+STEP 9: SET UP YOUR FIRST REPORT OR DASHBOARD
+-----------------------------------------------
+
+Reports give you visibility into what is happening across projects without having to read every task.
+
+9a. View built-in reports
+Go to any project and click "Reports" in the top navigation. The built-in Project Progress report shows tasks completed this week, tasks overdue, upcoming deadlines, and overall completion percentage. This requires no setup — it populates automatically from your tasks.
+
+9b. Set up the Workload report (Professional plan)
+Go to the main Reports section in the left sidebar > "Workload." This report shows every team member and how many tasks and estimated hours they have assigned this week. Use it in your weekly planning meeting to spot overloaded people and redistribute work before deadlines are missed.
+
+9c. Schedule a weekly email report (Professional plan)
+In any report, click "Schedule" in the top right corner. Choose "Weekly" and select which day and time to send it. Enter the email addresses of the people who should receive it (typically the project lead and any stakeholders). Click "Save Schedule." From now on, the report arrives automatically — no one has to log in to check status.
+
+---
+
+STEP 10: ACCESS HELP AND SUPPORT
+----------------------------------
+
+10a. In-app help center
+Click the "?" icon in the bottom right corner of any page in NovaTech. This opens the Help Center where you can search our full documentation library (500+ articles), watch short video walkthroughs, or start a live chat with our support team.
+
+10b. Email support
+Email support@novatechsolutions.com for any question. Include your workspace name and a description of what you are trying to do or what is going wrong. For Starter plan users, response time is within 3 business days. For Professional plan users, response time is within 4 business hours during business hours (Mon–Fri, 8 AM–8 PM EST).
+
+10c. Live chat (Professional plan)
+Click the blue chat bubble in the bottom right corner of the platform at any time during business hours to start a live chat with a support agent. Average wait time is under 5 minutes.
+
+10d. Onboarding call (Professional plan)
+As a new Professional plan subscriber, you are entitled to one free 1-hour onboarding call with a NovaTech Customer Success specialist. To schedule your call, go to Workspace Settings > "Support" > "Book Onboarding Call," or email success@novatechsolutions.com with "Onboarding Call Request" in the subject line. During this call, the specialist will help you configure your workspace for your specific team structure, answer questions, and share best practices based on similar teams to yours.
+
+10e. Community forum
+Join the NovaTech Community at community.novatechsolutions.com to ask questions, share tips and workflows, and connect with other NovaTech users. Our team actively monitors the forum and responds within 1-2 business days.
+
+10f. System status
+Check status.novatechsolutions.com at any time to see current platform status, view historical uptime, and subscribe to email or SMS alerts for incidents and maintenance windows.
+
+---
+
+QUICK-START CHECKLIST
+----------------------
+Use this checklist to confirm you have completed all onboarding steps:
+
+[ ] Email verified and account login confirmed
+[ ] Two-factor authentication (2FA) enabled
+[ ] Profile photo and job title added
+[ ] Workspace name and logo configured
+[ ] Billing plan confirmed (Starter, Professional trial, or paid Professional)
+[ ] All team members invited and joined
+[ ] At least one project created with sections set up
+[ ] First batch of tasks created and assigned with due dates
+[ ] Slack (or other primary communication tool) integration connected
+[ ] Google Calendar integration connected (if applicable)
+[ ] GitHub integration connected (if your team uses GitHub)
+[ ] Mobile app downloaded and logged in
+[ ] Personal notification preferences configured
+[ ] First standup posted in the #daily-standup channel
+[ ] First project report viewed
+[ ] Weekly report email scheduled
+[ ] Onboarding call booked (Professional plan only)
+
+If all boxes are checked, your team is ready to go. Welcome to NovaTech — we are glad you are here.
+
+---
+
+TIPS FOR A SUCCESSFUL ROLLOUT
+-------------------------------
+Based on thousands of team onboardings, here is what separates teams that adopt NovaTech successfully from those that struggle:
+
+1. Lead from the top. If the manager or team lead visibly uses NovaTech (creating tasks, posting in chat, updating statuses), the rest of the team will follow. If the manager continues to use email for coordination, the team will default to email.
+
+2. Start with real work, not a test project. Create actual projects with actual deadlines rather than a "sandbox" project. People engage with things that matter.
+
+3. Agree on one standard workflow as a team. Decide together: What does it mean for a task to be "In Progress"? When does it move to "Done"? Who can change priorities? A shared language prevents confusion.
+
+4. Resist the urge to import everything on day one. Start with the next two weeks of work. Importing a backlog of 300 tasks before your team is comfortable creates overwhelm, not organization.
+
+5. Do your first retrospective at the two-week mark. Ask the team: What is working well? What is confusing? Adjust your setup based on real experience, not theoretical preference.

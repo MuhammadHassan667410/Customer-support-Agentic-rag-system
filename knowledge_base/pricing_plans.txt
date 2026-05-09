@@ -1,0 +1,176 @@
+NOVATECH SOLUTIONS — PRICING PLANS
+====================================
+
+OVERVIEW
+--------
+NovaTech Solutions offers three pricing plans designed to fit teams at every stage — from independent freelancers and small startups to large enterprises with complex requirements. All plans include access to the NovaTech web platform, desktop app, and mobile app (iOS and Android).
+
+Pricing is per workspace, not per user on the Starter plan, and per user per month on Professional and Enterprise plans. All prices are listed in USD.
+
+---
+
+STARTER PLAN — FREE FOREVER
+-----------------------------
+Price: $0/month
+User limit: Up to 5 users per workspace
+Projects: Up to 10 active projects
+Storage: 5 GB total
+
+The Starter plan is free forever — no credit card required and no trial expiration. It is designed for small teams, freelancers, and individuals who want to experience the core NovaTech platform without any financial commitment.
+
+What is included in the Starter plan:
+- Unlimited tasks and subtasks across all active projects
+- List view, Board view, and Calendar view for tasks
+- Team chat with up to 10 channels
+- File attachments up to 25 MB per file
+- Basic time tracking (manual log only)
+- 3 built-in report templates (project progress, weekly summary, team tasks)
+- Mobile app (iOS and Android)
+- Email support with response time within 3 business days
+- 2-factor authentication
+- Up to 3 integrations (Slack, Google Calendar, and one of your choice)
+
+Limitations of the Starter plan:
+- Maximum 5 users (cannot add a 6th user without upgrading)
+- Maximum 10 active projects at a time (archive to free slots)
+- No Timeline (Gantt) view
+- No Table view
+- No API access
+- No custom fields
+- No audit logs
+- No priority or live chat support
+- No custom reports
+- No scheduled report emails
+- No webhooks
+- No SSO or IP allowlisting
+- No EU data residency
+
+The Starter plan is ideal for: freelancers managing personal projects, small founding teams (2-5 people) validating a business idea, nonprofit organizations with limited budgets, students and educators.
+
+---
+
+PROFESSIONAL PLAN — MOST POPULAR
+----------------------------------
+Price: $29 per user per month (billed monthly)
+       $23 per user per month (billed annually — saves 21%)
+User limit: Up to 200 users per workspace
+Projects: Unlimited active projects
+Storage: 100 GB total per workspace
+
+The Professional plan is our most popular option and is designed for growing teams that need the full power of NovaTech without the complexity and cost of an enterprise contract.
+
+Annual billing example: A team of 10 users on Professional annual = $23 x 10 = $230/month, billed as $2,760/year. This saves $720 compared to monthly billing.
+
+Everything in Starter, plus:
+- Unlimited projects and workspaces
+- All 5 task views: List, Board, Calendar, Timeline (Gantt), and Table
+- Custom fields (dropdown, checkbox, number, date, text) — unlimited
+- Full time tracking with live timer and manager overview
+- All 8 built-in report templates including workload, velocity, and billable hours
+- Custom report builder (drag-and-drop)
+- Scheduled report emails (daily, weekly, monthly)
+- All 40+ integrations including GitHub, GitLab, Jira, Salesforce, HubSpot, Zapier, and Make
+- Webhooks (real-time event notifications to external URLs)
+- REST API access (1,000 requests per minute)
+- 100 GB file storage
+- File attachments up to 250 MB per file
+- Audit logs (full workspace activity history)
+- EU data residency option (US-East-1 default, EU West-1 available on request)
+- Priority email support (response within 4 business hours, Monday-Friday 8 AM–8 PM EST)
+- Live chat support during business hours
+- Onboarding session: 1-hour guided setup call with a NovaTech Customer Success specialist
+- Guest users: Add unlimited read-only guests at no additional charge
+
+The Professional plan is ideal for: product teams, engineering squads, marketing departments, agencies, consulting firms, remote-first companies of 10–200 people.
+
+---
+
+ENTERPRISE PLAN — FOR LARGE ORGANIZATIONS
+-------------------------------------------
+Price: Custom pricing — contact sales@novatechsolutions.com for a quote
+User limit: Unlimited users
+Projects: Unlimited
+Storage: Unlimited
+
+The Enterprise plan is built for large organizations with advanced security, compliance, administrative, and support requirements. Pricing is negotiated based on team size, contract length, required features, and level of support. Enterprise contracts are typically annual.
+
+Everything in Professional, plus:
+- Unlimited users across unlimited workspaces
+- Unlimited file storage
+- Single Sign-On (SSO) via SAML 2.0 — works with Okta, Azure Active Directory, Google Workspace, OneLogin, and any SAML 2.0-compliant identity provider
+- IP allowlisting — restrict platform access to specific IP addresses or VPN ranges
+- Advanced audit logs with export capability (SOC 2 and compliance-ready)
+- Custom data retention policies
+- REST API access at 10,000 requests per minute (10x Professional limit)
+- Dedicated NovaTech Customer Success Manager (named contact, regular check-ins)
+- 24/7 priority support line (phone and email)
+- Custom SLA with guaranteed response times
+- Private Slack or Teams channel with NovaTech engineering and support staff
+- Custom onboarding program for large team rollouts
+- Custom contract terms and invoicing (Net-30 or Net-60 available)
+- Security review: NovaTech will complete your vendor security questionnaire
+- Data Processing Agreement (DPA) for GDPR compliance
+- Business Associate Agreement (BAA) available for HIPAA-adjacent use cases
+- Early access to beta features before general release
+
+The Enterprise plan is ideal for: companies with 200+ users, heavily regulated industries (finance, healthcare, legal), organizations with strict security and compliance requirements, companies needing SSO and centralized user management.
+
+---
+
+FREQUENTLY ASKED PRICING QUESTIONS
+------------------------------------
+
+Q: Can I switch between plans at any time?
+A: Yes. You can upgrade from Starter to Professional at any time and the change takes effect immediately. Downgrading from Professional to Starter is possible at the end of your current billing period. Upgrading from Professional to Enterprise requires contacting sales.
+
+Q: What happens if my team exceeds 5 users on the Starter plan?
+A: You will be prompted to upgrade to the Professional plan. You cannot add a 6th user to a Starter workspace — the system will block the invitation until you upgrade.
+
+Q: Is there a free trial of the Professional plan?
+A: Yes. New workspaces can try the Professional plan free for 14 days with no credit card required. At the end of the trial, you can choose to subscribe or revert to the Starter plan. No data is lost when reverting.
+
+Q: Do you offer discounts for nonprofits or educational institutions?
+A: Yes. Registered 501(c)(3) nonprofits and accredited educational institutions receive a 50% discount on the Professional plan. Contact sales@novatechsolutions.com with proof of eligibility.
+
+Q: Do you offer discounts for startups?
+A: NovaTech participates in several startup programs. If your startup is part of Y Combinator, Techstars, or any other recognized accelerator, contact us for startup pricing.
+
+Q: How does billing work for mid-month upgrades?
+A: If you upgrade mid-month, you are charged a prorated amount for the remainder of the current billing period. Your new billing cycle starts on your original billing date at the new plan rate.
+
+Q: Can I add users without upgrading to a higher tier?
+A: On the Starter plan, no — the 5-user limit is hard. On the Professional plan, you can add users at any time and you will be billed for the additional seats on a prorated basis.
+
+Q: Are guest users included in the user count?
+A: On the Professional and Enterprise plans, guest users (read-only or limited access) do not count toward your billable seat count. On the Starter plan, all users including guests count toward the 5-user limit.
+
+Q: What currencies do you accept?
+A: All plans are billed in USD. Enterprise customers can request invoicing in GBP or EUR.
+
+Q: What payment methods do you accept?
+A: Visa, Mastercard, American Express, and Discover credit/debit cards via Stripe. Enterprise customers can pay by bank transfer (ACH or SWIFT wire). We do not currently accept PayPal.
+
+---
+
+PLAN COMPARISON SUMMARY TABLE
+-------------------------------
+
+Feature                         Starter     Professional    Enterprise
+-------                         -------     ------------    ----------
+Price                           Free        $29/user/mo     Custom
+Users                           Up to 5     Up to 200       Unlimited
+Active Projects                 10          Unlimited       Unlimited
+Storage                         5 GB        100 GB          Unlimited
+List/Board/Calendar Views        Yes         Yes             Yes
+Timeline (Gantt) View           No          Yes             Yes
+Table View                      No          Yes             Yes
+Custom Fields                   No          Yes             Yes
+API Access                      No          Yes (1k rpm)    Yes (10k rpm)
+Webhooks                        No          Yes             Yes
+All Integrations (40+)          3 only      Yes             Yes
+Audit Logs                      No          Yes             Yes
+SSO (SAML 2.0)                  No          No              Yes
+IP Allowlisting                 No          No              Yes
+24/7 Support                    No          No              Yes
+Dedicated CSM                   No          No              Yes
+EU Data Residency               No          Yes             Yes

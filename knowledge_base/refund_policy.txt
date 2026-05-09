@@ -1,0 +1,115 @@
+NOVATECH SOLUTIONS — REFUND POLICY
+=====================================
+
+Last Updated: March 1, 2025
+
+OVERVIEW
+--------
+At NovaTech Solutions, we stand behind our product and want every customer to feel confident trying it. This Refund Policy explains the conditions under which refunds are granted, how to request one, and how long the process takes. We aim to be transparent and straightforward — no fine print designed to confuse.
+
+This policy applies to all paying customers of NovaTech Solutions, including those on the Professional monthly plan, the Professional annual plan, and Enterprise contracts (subject to the terms of the Enterprise agreement).
+
+---
+
+30-DAY MONEY-BACK GUARANTEE
+-----------------------------
+We offer a full, no-questions-asked refund for any new Professional plan subscription within the first 30 days of the subscription start date. This applies to both monthly and annual billing.
+
+What "no questions asked" means: You do not need to explain why you want a refund. You do not need to have encountered a bug or a problem. You do not need to prove you used the platform for a minimum amount of time or attempted to use a feature. Simply request the refund within 30 days and it will be issued in full.
+
+The 30-day period begins on the date your payment is processed — which is the same day you upgrade from Starter to Professional or the day you start a new Professional workspace with billing. If your 30th day falls on a weekend or public holiday, we will accept refund requests through the next business day.
+
+To be eligible for the 30-day money-back guarantee, your account must:
+- Be in good standing (not suspended for violation of our Terms of Service)
+- Have not previously received a refund from NovaTech on the same account
+- Have been subscribed to the Professional plan (not the Starter plan, which is free)
+
+---
+
+REFUNDS OUTSIDE THE 30-DAY WINDOW
+------------------------------------
+After the 30-day money-back guarantee period, refunds are not issued for standard reasons such as "I no longer need the service" or "I forgot to cancel before my renewal." We recommend setting a calendar reminder before your renewal date if you are unsure whether you will continue.
+
+However, we will consider refunds outside the 30-day window in the following specific circumstances:
+
+1. **Extended service outage:** If NovaTech experiences a verified outage (as recorded on status.novatechsolutions.com) lasting more than 8 consecutive hours within a billing period, affected Professional and Enterprise customers may request a prorated credit for the duration of the outage.
+
+2. **Unauthorized billing:** If you were charged after cancelling your subscription and have evidence of the cancellation (email confirmation, screenshot), we will refund the erroneous charge in full.
+
+3. **Duplicate charges:** If you were charged twice for the same billing period due to a technical error, the duplicate charge will be refunded in full.
+
+4. **Feature misrepresentation:** If a NovaTech sales representative made a specific written commitment about a feature that is not actually available in the platform, contact support within 60 days of purchase with a copy of that communication. We will review the case and, if confirmed, issue a full or partial refund at our discretion.
+
+To request a refund outside the 30-day window for one of the above reasons, email billing@novatechsolutions.com with the subject line "Refund Request — [Your Workspace Name]" and include the details of your situation. We review all such requests within 5 business days.
+
+---
+
+WHAT IS NOT REFUNDABLE
+------------------------
+The following are not eligible for refunds under any circumstances:
+
+- The Starter plan (which is free — there is nothing to refund)
+- Refund requests submitted more than 30 days after the subscription start date, unless they fall under one of the specific exceptions listed above
+- Charges for additional users added to a workspace that were actually used during the billing period
+- Annual plan charges after the 30-day money-back period has passed, for any reason other than the specific exceptions listed above
+- Charges on accounts that have been suspended or terminated for violating the NovaTech Terms of Service
+- Any charges that are disputed through a credit card chargeback rather than through our official refund process — initiating a chargeback while a legitimate refund request is being processed may result in your account being restricted
+
+We also strongly encourage you to make full use of the 14-day free trial of the Professional plan before committing to payment. The free trial is specifically designed to give you enough time to evaluate whether NovaTech is right for your team before any money changes hands.
+
+---
+
+HOW TO REQUEST A REFUND
+------------------------
+The fastest way to request a refund within the 30-day window is through the platform itself:
+
+1. Log in to your NovaTech workspace as the Owner (refunds can only be requested by the Workspace Owner)
+2. Go to Workspace Settings (gear icon in the left sidebar)
+3. Click "Billing & Plans"
+4. Under the current plan summary, click "Request a Refund"
+5. Confirm your request in the dialog box
+6. Your refund will be initiated immediately and a confirmation email will be sent to the billing email address on file
+
+Alternatively, you can email billing@novatechsolutions.com with:
+- The email address associated with your NovaTech account
+- Your workspace name
+- The date of the charge you are requesting a refund for
+- The amount charged
+- A brief reason (optional — not required for 30-day requests)
+
+Our billing team responds to refund requests within 1 business day. Refunds outside the 30-day window are reviewed within 5 business days.
+
+---
+
+REFUND PROCESSING TIME
+------------------------
+Once a refund is approved and initiated, the timeline for funds to appear back in your account depends on your payment method and financial institution:
+
+- Credit card or debit card: 5 to 10 business days from the refund initiation date. This is the time it takes for Stripe (our payment processor) to return the funds and for your card's bank to process the credit. NovaTech has no control over your bank's processing speed.
+- Bank transfer (ACH or wire, for Enterprise invoiced customers): 7 to 15 business days
+
+You will receive an email confirmation when the refund has been initiated on our end. If more than 15 business days have passed since you received that confirmation and the money has not appeared, contact your bank first — they can trace the credit. If they cannot locate it, contact billing@novatechsolutions.com and we will investigate with Stripe.
+
+---
+
+REFUNDS FOR ANNUAL PLANS
+--------------------------
+Annual plan customers who request a refund within the first 30 days receive a full refund of the entire annual charge — not just one month.
+
+After the 30-day window, annual plan customers are not eligible for prorated refunds for unused months, except under the specific circumstances listed in the "Refunds Outside the 30-Day Window" section. If you cancel an annual subscription after 30 days, your Professional access continues until the end of the annual period you paid for, and you will not be charged again at renewal.
+
+---
+
+ENTERPRISE PLAN REFUNDS
+-------------------------
+Enterprise plan refunds are governed by the specific terms of your Enterprise contract, which may differ from this general policy. If there is a conflict between your Enterprise contract and this policy, your contract terms take precedence. Contact your dedicated Customer Success Manager or email contracts@novatechsolutions.com for Enterprise billing matters.
+
+---
+
+CONTACT FOR BILLING QUESTIONS
+-------------------------------
+For all refund and billing questions:
+Email: billing@novatechsolutions.com
+Response time: Within 1 business day (Mon–Fri, 9 AM–6 PM EST)
+
+For urgent billing issues outside business hours, Professional and Enterprise customers can use the in-app live chat.
