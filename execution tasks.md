@@ -20,32 +20,32 @@ Status legend:
 ## Group A - Foundation
 
 ### A1. Repository and structure bootstrap (Phase 1)
-- [ ] A1.1 Create folder tree exactly as defined in AGENTS.md.
-- [ ] A1.2 Initialize git repository.
-- [ ] A1.3 Create `.gitignore` (`.env`, `.venv`, `__pycache__`, Python artifacts).
-- [ ] A1.4 Create `.venv` and activate.
-- [ ] A1.5 Create pinned `requirements.txt` from latest stable compatible releases.
-- [ ] A1.6 Install dependencies.
-- [ ] A1.7 Create `.env.example` with required variables only.
-- [ ] A1.8 Create `PROGRESS.md` and set Phase 1 state.
-- [ ] A1.9 Run import smoke test command.
+- [x] A1.1 Create folder tree exactly as defined in AGENTS.md.
+- [x] A1.2 Initialize git repository.
+- [x] A1.3 Create `.gitignore` (`.env`, `.venv`, `__pycache__`, Python artifacts).
+- [x] A1.4 Create `.venv` and activate.
+- [x] A1.5 Create pinned `requirements.txt` from latest stable compatible releases.
+- [x] A1.6 Install dependencies.
+- [x] A1.7 Create `.env.example` with required variables only.
+- [x] A1.8 Create `PROGRESS.md` and set Phase 1 state.
+- [x] A1.9 Run import smoke test command.
 
 Dependencies: none
 
 ### A2. Configuration source of truth (Phase 2)
-- [ ] A2.1 Implement `src/config.py` with `load_dotenv()`.
-- [ ] A2.2 Add required env var validation helper.
-- [ ] A2.3 Expose grouped constants (Azure, Supabase, LangSmith, app tuning).
-- [ ] A2.4 Add type hints, docstrings, logging where relevant.
-- [ ] A2.5 Test config import and non-secret value loading.
+- [x] A2.1 Implement `src/config.py` with `load_dotenv()`.
+- [x] A2.2 Add required env var validation helper.
+- [x] A2.3 Expose grouped constants (Azure, Supabase, LangSmith, app tuning).
+- [x] A2.4 Add type hints, docstrings, logging where relevant.
+- [x] A2.5 Test config import and non-secret value loading.
 
 Dependencies: A1
 
 ### A3. Supabase client singleton (Phase 3)
-- [ ] A3.1 Implement `src/database/supabase_client.py`.
-- [ ] A3.2 Create one module-level `supabase` client from config values.
-- [ ] A3.3 Add clear exception path for invalid credentials.
-- [ ] A3.4 Run authenticated query smoke check.
+- [x] A3.1 Implement `src/database/supabase_client.py`.
+- [x] A3.2 Create one module-level `supabase` client from config values.
+- [x] A3.3 Add clear exception path for invalid credentials.
+- [x] A3.4 Run authenticated query smoke check.
 
 Dependencies: A2
 
@@ -54,46 +54,46 @@ Dependencies: A2
 ## Group B - Data layer and ingestion
 
 ### B1. Database schema + pgvector + RPC (Phase 4)
-- [ ] B1.1 Enable `vector` extension.
-- [ ] B1.2 Create `documents` table with embedding column.
-- [ ] B1.3 Create `semantic_cache` table with question embedding + hit_count.
-- [ ] B1.4 Create `long_term_memory` table.
-- [ ] B1.5 Create HNSW indexes for embedding columns.
-- [ ] B1.6 Create similarity RPC function(s) needed by retrieval/cache.
-- [ ] B1.7 Validate by inserting test rows.
+- [x] B1.1 Enable `vector` extension.
+- [x] B1.2 Create `documents` table with embedding column.
+- [x] B1.3 Create `semantic_cache` table with question embedding + hit_count.
+- [x] B1.4 Create `long_term_memory` table.
+- [x] B1.5 Create HNSW indexes for embedding columns.
+- [x] B1.6 Create similarity RPC function(s) needed by retrieval/cache.
+- [x] B1.7 Validate by inserting test rows.
 
 Dependencies: A3
 
 ### B2. Embedding model module (Phase 5)
-- [ ] B2.1 Implement `src/embeddings/azure_embeddings.py`.
-- [ ] B2.2 Export singleton embeddings object.
-- [ ] B2.3 Run single-sentence embedding test and verify dimension.
+- [x] B2.1 Implement `src/embeddings/azure_embeddings.py`.
+- [x] B2.2 Export singleton embeddings object.
+- [x] B2.3 Run single-sentence embedding test and verify dimension.
 
 Dependencies: A2
 
 ### B3. KB consistency normalization pass (pre-Phase 6 quality gate)
-- [ ] B3.1 Review all six KB files for factual conflicts (pricing limits, support terms, plan constraints).
-- [ ] B3.2 Normalize conflicting statements to a single canonical policy.
-- [ ] B3.3 Preserve realistic enterprise tone and retrieval-rich detail.
-- [ ] B3.4 Re-check for internal consistency across all documents.
+- [x] B3.1 Review all six KB files for factual conflicts (pricing limits, support terms, plan constraints).
+- [x] B3.2 Normalize conflicting statements to a single canonical policy.
+- [x] B3.3 Preserve realistic enterprise tone and retrieval-rich detail.
+- [x] B3.4 Re-check for internal consistency across all documents.
 
-Dependencies: A1
+Dependencies: A2
 
 ### B4. Document loader and chunker (Phase 6)
-- [ ] B4.1 Implement `src/knowledge_base/document_loader.py`.
-- [ ] B4.2 Load all `.txt` docs via `DirectoryLoader` + `TextLoader`.
-- [ ] B4.3 Apply `RecursiveCharacterTextSplitter` with configured size/overlap.
-- [ ] B4.4 Add metadata (`source`, `title`, `chunk_index`).
-- [ ] B4.5 Print and inspect sample chunk outputs.
+- [x] B4.1 Implement `src/knowledge_base/document_loader.py`.
+- [x] B4.2 Load all `.txt` docs via `DirectoryLoader` + `TextLoader`.
+- [x] B4.3 Apply `RecursiveCharacterTextSplitter` with configured size/overlap.
+- [x] B4.4 Add metadata (`source`, `title`, `chunk_index`).
+- [x] B4.5 Print and inspect sample chunk outputs.
 
 Dependencies: B3, B2
 
 ### B5. Ingestion pipeline (Phase 7)
-- [ ] B5.1 Implement `src/knowledge_base/ingest.py`.
-- [ ] B5.2 Implement `scripts/run_ingest.py`.
-- [ ] B5.3 Add batch processing and progress logging.
-- [ ] B5.4 Define idempotent ingestion strategy (clear/reingest or upsert policy).
-- [ ] B5.5 Execute ingestion and verify Supabase rows.
+- [x] B5.1 Implement `src/knowledge_base/ingest.py`.
+- [x] B5.2 Implement `scripts/run_ingest.py`.
+- [x] B5.3 Add batch processing and progress logging.
+- [x] B5.4 Define idempotent ingestion strategy (clear/reingest or upsert policy).
+- [x] B5.5 Execute ingestion and verify Supabase rows.
 
 Dependencies: B1, B2, B4
 

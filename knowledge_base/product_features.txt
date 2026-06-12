@@ -19,7 +19,7 @@ Tasks can be created in seconds and assigned to any team member. Every task supp
 - Custom labels and tags (team-defined)
 - Multiple assignees (useful for collaborative tasks)
 - Time estimates and actual time logged
-- File attachments (drag and drop, up to 250 MB per file)
+- File attachments (drag and drop; per-file limits apply by plan: 25 MB Starter, 250 MB Professional/Enterprise)
 - Comments with @mentions and emoji reactions
 - Activity log showing every change made to the task with timestamps and author
 

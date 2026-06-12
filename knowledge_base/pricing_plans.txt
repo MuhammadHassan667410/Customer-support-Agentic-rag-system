@@ -75,7 +75,7 @@ Everything in Starter, plus:
 - 100 GB file storage
 - File attachments up to 250 MB per file
 - Audit logs (full workspace activity history)
-- EU data residency option (US-East-1 default, EU West-1 available on request)
+- EU data residency option (US-East-1 default, AWS eu-west-1 (Ireland) available on request)
 - Priority email support (response within 4 business hours, Monday-Friday 8 AM–8 PM EST)
 - Live chat support during business hours
 - Onboarding session: 1-hour guided setup call with a NovaTech Customer Success specialist
